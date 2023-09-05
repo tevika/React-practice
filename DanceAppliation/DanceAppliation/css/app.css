@@ -1,0 +1,27 @@
+
+body{
+    /* background-image: url("");
+   
+    /* height: 50vh; */
+    /* width:100vw; */
+     background-color:rgba(red, green, blue, );
+
+    background-image: linear-gradient(to bottom,rgb(230, 147, 24));
+    background-repeat: no-repeat;
+    background-size: cover; 
+
+}
+a{
+    text-decoration: none;
+    color:rgb(81, 8, 197);
+    
+}
+
+#dis{
+    /* margin-top: 20px; */
+    padding-top: 80px;
+    padding-left: 60px;
+}
+li{
+    text-decoration: none;
+}
